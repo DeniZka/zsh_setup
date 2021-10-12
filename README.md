@@ -1,6 +1,10 @@
 # zsh_setup
 настройка zsh на красивую работу
 
+#manjaro pre setup
+[Manjaro zsh](https://github.com/Chrysostomus/manjaro-zsh-config)
+требуется допилка, потому что адресация на модули не туда
+
 # Шрифт
 Чтобы в терминале отображались пиктограмки нужно выкачать нужный фонт
 [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
